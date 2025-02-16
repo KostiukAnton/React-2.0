@@ -18,7 +18,7 @@
 //   );
 // }
 
-import { favBooks } from "./Favbooks";
+import { favBooks } from "./FavBooks";
 import { BookList } from "./BookList";
 
 
